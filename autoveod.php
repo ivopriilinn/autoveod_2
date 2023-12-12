@@ -23,7 +23,7 @@
                 <td rowspan="2"  style="background-color: brown;">
                     <div class="autorid">    
                         <h3>Lehekülje koostasid</h3>
-                        <h3>Ivo Priilinn ja Timo Kaalmaa</h3><br>
+                        <h3>Ivo Priilinn ja Timo Kaalma</h3><br>
                         <h3>Kursus</h3>
                         <h3>TARge22</h3><br>
                     </div>
