@@ -1,0 +1,25 @@
+<html>
+<body>
+<script>
+response = '{"autojuhi FK":null,"auto registri FK":null,"autojuhi_nimi":"nimi"}';
+j = JSON.parse(response);
+console.log(j["autojuhi FK"]);
+console.log(j["auto registri FK"]);
+console.log(j["autojuhi_nimi"]);
+
+console.log(typeof(j["autojuhi FK"]));
+console.log(typeof(j["auto registri FK"]));
+console.log(typeof(j["autojuhi_nimi"]));
+
+console.log(j["autojuhi FK"] == null);
+console.log(j["autojuhi FK"] === null);
+console.log(j["autojuhi FK"] != null);
+console.log(j["autojuhi FK"] !== null);
+//if (j["autojuhi FK"] == null) console.log("") else console.log("is null ==");
+//if (j["autojuhi FK"] === null) console.log("is null ===");
+//if (j["autojuhi FK"] != null) console.log("is not null !=");
+//if (j["autojuhi FK"] !== null) console.log("is not null !==");
+
+</script>
+</body>
+</html>
